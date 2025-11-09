@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alyaqeen-vert.vercel.app/sitemap.xml
